@@ -21,18 +21,27 @@ Python's simplicity and massive library ecosystem make it the go-to language for
 
 ## 📁 Sub-topics
 
-* [Dictionaries](https://github.com/3riy/Python/tree/main/Dictionaries)
-* [For Loop](https://github.com/3riy/Python/tree/main/For%20Loop)
-* [Functions](https://github.com/3riy/Python/tree/main/Functions)
-* [If-Else-Elif Statements](https://github.com/3riy/Python/tree/main/If-Else-Elif%20Statements)
+### 🛠️ Foundations & Basic Syntax
 * [Keywords and Identifiers](https://github.com/3riy/Python/tree/main/Keywords%20and%20Identifiers)
-* [Lists](https://github.com/3riy/Python/tree/main/Lists)
-* [Sets](https://github.com/3riy/Python/tree/main/Sets)
 * [Strings](https://github.com/3riy/Python/tree/main/Strings)
-* [Tkinter](https://github.com/3riy/Python/tree/main/Tkinter)
-* [Try-Except-Finally Statements](https://github.com/3riy/Python/tree/main/Try-Except-Finally%20Statements)
+
+### 📊 Data Structures
+* [Lists](https://github.com/3riy/Python/tree/main/Lists)
 * [Tuples](https://github.com/3riy/Python/tree/main/Tuples)
+* [Sets](https://github.com/3riy/Python/tree/main/Sets)
+* [Dictionaries](https://github.com/3riy/Python/tree/main/Dictionaries)
+
+### 🔄 Control Flow & Logic
+* [If-Else-Elif Statements](https://github.com/3riy/Python/tree/main/If-Else-Elif%20Statements)
+* [For Loop](https://github.com/3riy/Python/tree/main/For%20Loop)
 * [While Loop](https://github.com/3riy/Python/tree/main/While%20Loop)
+* [Functions](https://github.com/3riy/Python/tree/main/Functions)
+
+### ⚠️ Error Handling
+* [Try-Except-Finally Statements](https://github.com/3riy/Python/tree/main/Try-Except-Finally%20Statements)
+
+### 🎨 GUI
+* [Tkinter (GUI)](https://github.com/3riy/Python/tree/main/Tkinter)
 
 ---
 
