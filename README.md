@@ -41,7 +41,7 @@ Python's simplicity and massive library ecosystem make it the go-to language for
 * [Try-Except-Finally Statements](https://github.com/3riy/Python/tree/main/Try-Except-Finally%20Statements)
 
 ### 🎨 GUI
-* [Tkinter (GUI)](https://github.com/3riy/Python/tree/main/Tkinter)
+* [Tkinter](https://github.com/3riy/Python/tree/main/Tkinter)
 
 ---
 
