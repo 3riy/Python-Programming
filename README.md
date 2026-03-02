@@ -21,18 +21,18 @@ Python's simplicity and massive library ecosystem make it the go-to language for
 
 ## 📁 Sub-folders
 
-* [Dictionaries](https://github.com/rh3nium/Python/tree/main/Dictionaries)
-* [For Loop](https://github.com/rh3nium/Python/tree/main/For%20Loop)
-* [Functions](https://github.com/rh3nium/Python/tree/main/Functions)
-* [If-Else-Elif Statements](https://github.com/rh3nium/Python/tree/main/If-Else-Elif%20Statements)
-* [Keywords and Identifiers](https://github.com/rh3nium/Python/tree/main/Keywords%20and%20Identifiers)
-* [Lists](https://github.com/rh3nium/Python/tree/main/Lists)
-* [Sets](https://github.com/rh3nium/Python/tree/main/Sets)
-* [Strings](https://github.com/rh3nium/Python/tree/main/Strings)
-* [Tkinter](https://github.com/rh3nium/Python/tree/main/Tkinter)
-* [Try-Except-Finally Statements](https://github.com/rh3nium/Python/tree/main/Try-Except-Finally%20Statements)
-* [Tuples](https://github.com/rh3nium/Python/tree/main/Tuples)
-* [While Loop](https://github.com/rh3nium/Python/tree/main/While%20Loop)
+* [Dictionaries](https://github.com/3riy/Python/tree/main/Dictionaries)
+* [For Loop](https://github.com/3riy/Python/tree/main/For%20Loop)
+* [Functions](https://github.com/3riy/Python/tree/main/Functions)
+* [If-Else-Elif Statements](https://github.com/3riy/Python/tree/main/If-Else-Elif%20Statements)
+* [Keywords and Identifiers](https://github.com/3riy/Python/tree/main/Keywords%20and%20Identifiers)
+* [Lists](https://github.com/3riy/Python/tree/main/Lists)
+* [Sets](https://github.com/3riy/Python/tree/main/Sets)
+* [Strings](https://github.com/3riy/Python/tree/main/Strings)
+* [Tkinter](https://github.com/3riy/Python/tree/main/Tkinter)
+* [Try-Except-Finally Statements](https://github.com/3riy/Python/tree/main/Try-Except-Finally%20Statements)
+* [Tuples](https://github.com/3riy/Python/tree/main/Tuples)
+* [While Loop](https://github.com/3riy/Python/tree/main/While%20Loop)
 
 ---
 
