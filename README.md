@@ -98,6 +98,6 @@ If you prefer using **Visual Studio Code (VS Code)**, follow these additional st
 
 ---
 
-## Dicussions
+## 💬 Dicussions
 
 Visit the [Discussions page](https://github.com/3riy/Python-Basics/discussions) to share any comments or remarks you may have regarding this repo!
